@@ -1,0 +1,5 @@
+# https://github.com/wjdp/htmltest
+
+DirectoryPath: public
+IgnoreURLs:
+  - example.org
